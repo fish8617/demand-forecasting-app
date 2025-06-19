@@ -3,5 +3,4 @@ pandas
 numpy
 matplotlib
 reportlab
-hashlib
 scikit-learn
